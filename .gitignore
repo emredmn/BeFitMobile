@@ -1,0 +1,76 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+**/[Pp]ackages/*
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# MAUI/Xamarin specific
+*.ipa
+*.apk
+*.aab
+*.dSYM.zip
+*.dSYM
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build logs
+*.log
+msbuild.binlog
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Roslyn cache
+*.ide/
+
+# JetBrains Rider
+*.sln.iml
